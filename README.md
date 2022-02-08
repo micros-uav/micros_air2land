@@ -1,4 +1,4 @@
-# micros_air2land Dataset: A deep learning dataset for unmanned aerial vehicle auto landing from air to land
+# Air2Land Dataset: A deep learning dataset for unmanned aerial vehicle auto landing from air to land
 
 
 Machine Intelligence and Collective Robotics (MICRO) Lab, Sun Yat-Sen University, GuangZhou, China
@@ -7,13 +7,13 @@ Machine Intelligence and Collective Robotics (MICRO) Lab, Sun Yat-Sen University
 
  ### [Overview](#what-is-air2land) | [Simulation system](#simulation-system) | [Download](#download) | [Contact](#contact)
 
-## What is micros_air2land?
+## What is Air2Land?
 
-Micros_air2land dataset is a multi-modal dataset for object detection and pose estimation in the context of fixed-wing unmanned aerial vehicle(UAV)’s auto-landing scenarios.
+Air2Land dataset is a multi-modal dataset for object detection and pose estimation in the context of fixed-wing unmanned aerial vehicle(UAV)’s auto-landing scenarios.
 
 It bridges vision and robotics for ground-based vision guidance systems having the multi-modal data obtained by different sensors and pushes forward the development of computer vision and robotic algorithms targeted at visually assisted UAV landing. The dataset is composed of sequential stereo images and other sensor data (UAV pose, Pan-Tilt Unit angles) simulated in various climate conditions and landing scenarios. Since real-world automated landing data is very limited, our dataset provides the necessary foundation for vision-based tasks such as UAV detection, key point localization, and pose estimation .etc.
 
-Micros_air2landhas several features:
+Air2Land has several features:
 
 - UAV detection, key point localization, pose estimation in ground vision images
 
@@ -23,7 +23,7 @@ Micros_air2landhas several features:
 
 - Frames are also labelled with GPS and gimbal rotation angle.
 
-  <img src=".\imgs\Air2Land-dataset.png" alt="air2land-dataset" style="zoom: 80%;" />
+  <img src=".\imgs\Air2Land-dataset.png" alt="air2land-dataset" style="zoom: 90%;" />
 
 ## Simulation system
 
@@ -33,7 +33,7 @@ In our guidance system, two PTUs (pan-tilt units) are symmetrically located on b
 
 ## Download
 
-You are free to use micros_air2landdataset and all empirical data and metadata under the CC-BY licence. You can download the dataset (only partially provided) using [Baidu Drive](https://pan.baidu.com/s/1DP8yxtm3dfXAUWbykk12iQ)  (size: 2.01GB, passward: **6tk1**). When using this dataset in your research, we would appreciate that you cite our paper.
+You are free to use Air2Land dataset and all empirical data and metadata under the CC-BY licence. You can download the dataset (only partially provided) using [Baidu Drive](https://pan.baidu.com/s/13zG8kxr7V8jbw_dzAMPU0g)  (size: 69.90GB, passward: **9hbc**). When using this dataset in your research, we would appreciate that you cite our paper.
 
 
 ## Contact
